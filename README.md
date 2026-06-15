@@ -95,10 +95,3 @@ The dashboard includes transition controls (`←` and `→` arrows) with confirm
 *   **CSV Exporter**: Filters down the volunteer list dynamically based on search terms or categories, and lets the administrator download *only* that active view, making targeted email/sms campaigns fast and simple.
 
 ---
-
-## 🔮 What I'd Add with More Time
-
-1.  **Automated Notifications**: Integrate Twilio/SendGrid to trigger automated messages (e.g. an email saying *"Welcome to NayePankh! You have been Approved..."* or a WhatsApp ping when active food drives match their availability).
-2.  **Drive/Event Management**: A calendar component where organizers can schedule food drives and directly assign `Active` volunteers, keeping scheduling inside a single portal.
-3.  **Organizer Audit Logs**: Tracking which administrator moved a volunteer along the pipeline, along with transition notes (e.g., *"Moved Sneha to Active after successful onboarding call"*).
-4.  **Skills Search Optimization**: Build a semantic text tag search index to parse free-form skills description into filterable tags.
